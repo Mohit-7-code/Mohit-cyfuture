@@ -1,0 +1,15 @@
+# Twitter API credentials
+API_KEY = "y6RGm9SfbbNROfDL6gQdcAnTM"
+API_SECRET = "BjUsAhxpkZJvoXpAWYfhubmX4vKh3pvrMsTVT3nmtviX0ogZpn"
+ACCESS_TOKEN = "1879196825590321152-5EtzdrjTdgjnVeQSpYBh1cuoxdzhYm"
+ACCESS_TOKEN_SECRET = "W5O9jOX6HxXrfzyDUacdHvHYTCttkwnI0w6YQhymQRPhl"
+BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAGokzQEAAAAApC4YD9poUMf2rsMNDrNkhhas11U%3DrN90qnpwXgxvKpyzARbAnG91C8abvguQBSEpqcf3B3Yai0yZnj"
+
+# File paths
+RAW_DATA_PATH = "data/raw_data.csv"
+PROCESSED_DATA_PATH = "data/processed_data.csv"
+MODEL_PATH = "models/lstm_model.h5"
+
+# Other constants
+MAX_TWEETS = 500  # Number of tweets to scrape
+MAX_FEATURES = 5000  # For CountVectorizer

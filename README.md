@@ -14,4 +14,4 @@ The API will be accessible at: http://127.0.0.1:8000.
 Use the /predict endpoint to get predictions.
 
 STEP 5 -
-python m-streamlit run app/ui_streamlit.py
+python -m streamlit run app/ui_streamlit.py
